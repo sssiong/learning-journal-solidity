@@ -4,6 +4,11 @@
 
 A place to document down my learning progress with solidity
 
+## Required Software
+
+- [Docker](https://docs.docker.com/get-docker/)
+- [Ganache](https://www.trufflesuite.com/ganache)
+
 ## Setup
 
 ``` base
